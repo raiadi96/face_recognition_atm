@@ -6,7 +6,9 @@ TKinter is used for building a simple UI.
 # Libraries essential:
 
 DLIB
+
 face_recognition_models
+
 imutils
 
 
